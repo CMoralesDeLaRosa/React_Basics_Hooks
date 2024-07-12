@@ -1,0 +1,6 @@
+.root {
+  min-height: 100svh;
+  width: 100%;
+  font-family: 'Jost', sans-serif;
+  font-optical-sizing: auto;
+}
